@@ -1,0 +1,2 @@
+MOSCOW,GREECE,TOKYO,ENGINE,CARD,DATE,MERCURY,FORK,ARM,BEAR,BOX,FIRE,CENTAUR,SHOP,TEACHER,PORT,TICK,DEATH,LINE,DAY,SATELLITE,AMERICA,COMIC,CHAIR,GAS,
+red,black,blue,blue,spy,black,red,black,blue,blue,red,black,red,blue,red,red,red,blue,red,blue,black,black,red,blue,black,

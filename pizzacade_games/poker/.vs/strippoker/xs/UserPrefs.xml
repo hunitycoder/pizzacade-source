@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9E2E2EA4-D464-5470-84E6-8B180862A761}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/BettingManager.cs">
+    <Files>
+      <File FileName="Assets/_Script/PUNMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/BettingManager.cs" Line="138" Column="30" />
+      <File FileName="Assets/_Script/CardView.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/CardHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/Card.cs" />
+      <File FileName="Assets/_Script/PlayerView.cs" />
+      <File FileName="Assets/_Script/CardValue.cs" />
+      <File FileName="Assets/_Script/CardSuit.cs" />
+      <File FileName="Assets/_Script/TexasHoldEm.cs" Line="352" Column="10" />
+      <File FileName="Assets/_Script/SeatView.cs" Line="61" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="strippoker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Script" expanded="True">
+                <Node name="BettingManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="57d1b094-1fe2-4e05-8674-1c54967640ae" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

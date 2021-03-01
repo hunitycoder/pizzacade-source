@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3611536139547616558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3611536139547616561}
+  - component: {fileID: 3611536139547616563}
+  - component: {fileID: 3799945518436403647}
+  m_Layer: 0
+  m_Name: TicTacToeLogic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3611536139547616561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611536139547616558}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3611536139547616563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611536139547616558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  observableSearch: 2
+  Synchronization: 3
+  OwnershipTransfer: 0
+  ObservedComponents: []
+  viewIdField: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &3799945518436403647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611536139547616558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc704193825a58e49a7c276bb1165f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _buttons: []
+  _gameState: 
+  _playerSelectedTile: {fileID: 11400000, guid: 35b614e56887793429968e96f4f04161,
+    type: 2}
+  _enemySelectedTile: {fileID: 11400000, guid: 1ad0b1e1862ca96468ef0d08d4940ed5, type: 2}
+  _canSelectTile: {fileID: 11400000, guid: 0124d639471412a48ac084c51e2885dc, type: 2}
+  _newGame: {fileID: 11400000, guid: 7104cde25b7cef242a4a286e834de407, type: 2}
+  _gameStateDisplay: {fileID: 11400000, guid: fe6dbac51f2af1640ac28f079f0bef20, type: 2}
+  _endState: {fileID: 11400000, guid: c6416f9bdbfbb4a289c6e53d8c9c2b49, type: 2}
+  _tileButton: {fileID: 3611536139547616558}
+  _gridSize: {x: 3, y: 3}
+  _cellSize: {x: 150, y: 150}
+  _gridOffset: {x: 0, y: 0, z: 0}
+  _gridColor: {r: 0, g: 0, b: 0, a: 0}
